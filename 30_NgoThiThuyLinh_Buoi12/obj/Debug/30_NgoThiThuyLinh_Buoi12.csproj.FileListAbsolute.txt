@@ -7,3 +7,4 @@ E:\LuuDuLieuSinhVien\NgoThiThuyLinh\30_NgoThiThuyLinh_Buoi12\30_NgoThiThuyLinh_B
 E:\LuuDuLieuSinhVien\NgoThiThuyLinh\30_NgoThiThuyLinh_Buoi12\30_NgoThiThuyLinh_Buoi12\bin\Debug\30_NgoThiThuyLinh_Buoi12.pdb
 E:\LuuDuLieuSinhVien\NgoThiThuyLinh\30_NgoThiThuyLinh_Buoi12\30_NgoThiThuyLinh_Buoi12\obj\Debug\30_NgoThiThuyLinh_Buoi12.exe
 E:\LuuDuLieuSinhVien\NgoThiThuyLinh\30_NgoThiThuyLinh_Buoi12\30_NgoThiThuyLinh_Buoi12\obj\Debug\30_NgoThiThuyLinh_Buoi12.pdb
+E:\LuuDuLieuSinhVien\NgoThiThuyLinh\30_NgoThiThuyLinh_Buoi12\30_NgoThiThuyLinh_Buoi12\obj\Debug\_30_NgoThiThuyLinh_Buoi12.Form2.resources
